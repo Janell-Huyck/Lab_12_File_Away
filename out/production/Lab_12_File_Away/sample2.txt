@@ -1,0 +1,4 @@
+Java is fun.
+Coding every day keeps the bugs away.
+
+Let’s write clean code and drink coffee.
